@@ -1,0 +1,15 @@
+﻿ASSET REPORT
+Assets: 1
+Total purchase price (USD): 1100.00
+
+ID: 5
+Type: Desktop
+Brand: ASUS
+Model: ExpertCenter D7
+Purchase date: 2026-06-01
+Price USD: 1100.00
+Office: Sweden Office
+Serial number: ASUS-TEST-001
+Employee: 
+Warranty expiration: 2029-06-01
+

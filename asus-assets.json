@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Id": 5,
+    "AssetType": "Desktop",
+    "Brand": "ASUS",
+    "ModelName": "ExpertCenter D7",
+    "PurchaseDate": "2026-06-01",
+    "PurchasePriceUsd": 1100.00,
+    "OfficeLocation": "Sweden Office",
+    "SerialNumber": "ASUS-TEST-001",
+    "EmployeeUsername": null,
+    "WarrantyExpirationDate": "2029-06-01"
+  }
+]
