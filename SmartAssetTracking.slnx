@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="HOW_TO_RUN_PROJECTS.md" />
+  </Folder>
   <Project Path="AssetTracking.Level1/AssetTracking.Level1.csproj" />
   <Project Path="AssetTracking.Level2/AssetTracking.Level2.csproj" Id="be05b113-b74a-4d3a-b7a0-d1c6c6bb15d1" />
   <Project Path="AssetTracking.Level3/AssetTracking.Level3.csproj" Id="54859c3d-051d-47d2-a60a-ea4d8052fb30" />
